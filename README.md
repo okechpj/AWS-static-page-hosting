@@ -141,4 +141,11 @@ Referencing Images:
 Ensure image paths in your HTML/CSS files are correct.
 Adding images enhances the visual appeal of your website. Properly referencing them ensures they are displayed correctly.
 
+## Check out my blog that walks you through this whole project:
+https://medium.com/@okechpj/deploying-a-static-website-using-aws-s3-%EF%B8%8F-a-step-by-step-guide-d6b448588f6d
+
+## And just like that, our website is ready!!
+https://peterportfolio.s3.amazonaws.com/index.html
+
+
 
