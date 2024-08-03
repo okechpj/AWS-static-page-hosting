@@ -1,0 +1,1 @@
+# AWS-static-page-hosting
